@@ -1,0 +1,8 @@
+[
+  "tests/test_encryption.py::test_decrypt_with_wrong_key",
+  "tests/test_encryption.py::test_encrypt_decrypt_with_key",
+  "tests/test_encryption.py::test_encrypt_decrypt_with_password",
+  "tests/test_encryption.py::test_file_operations",
+  "tests/test_encryption.py::test_key_derivation_consistency",
+  "tests/test_encryption.py::test_large_file_handling"
+]
